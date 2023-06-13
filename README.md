@@ -1,7 +1,7 @@
 👋
 ###  Seja bem-vindo ao meu perfil, eu sou o Leonardo!🚀
 <div align="center" style="display: flex; justify-content: space-between; width:100%">
-  <a href="https://github.com/uLuccas">
+  <a href="https://github.com/Auggustto">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Auggustto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uLuccas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
