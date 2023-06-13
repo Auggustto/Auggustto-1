@@ -18,6 +18,11 @@
 <div style="display: inline_block"> 
 <!--   <a href="https://www.instagram.com/ubeico.ofc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
 <br>
+<img align="center" alt="Auggustto-Js" height="30" width="40" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)">
+  
+  
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
+
   
   <a href="https://www.linkedin.com/in/leonardo-augusto-9316081b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
