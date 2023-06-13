@@ -11,7 +11,7 @@
     
     
    <img align="center" alt="Auggustto-Ts" height="30" width="40" src="
-            <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+           https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
     
     
 <!--    <img align="center" alt="Auggustto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
