@@ -1,5 +1,17 @@
-👋
-###  Seja bem-vindo ao meu perfil, eu sou o Leonardo!🚀
+
+### Hello welcome to my profile.🚀
+<p>My name is Leonardo, and I am an experienced backend developer with skills in Python, PHP, JavaScript, Node.js, SQL, Docker, and Django.
+
+With over 2 years of experience, I have worked on challenging projects ranging from small applications to large enterprise systems. I always strive for the best solutions in terms of performance, security, and scalability.
+
+My experience includes API development, web scraping, system integration, process automation, and database implementation. I am highly proficient in Python, including frameworks like Django and Flask. Additionally, I have skills in JavaScript, both on the backend with Node.js and on the frontend with frameworks.
+
+In the field of databases, I have knowledge of relational databases such as PostgreSQL and MySQL. I am also familiar with tools like Docker, which I use to create and manage containers.
+
+I am a highly motivated developer, focused on delivering results and understanding the business needs. My goal is to create efficient and scalable solutions that meet the project's demands.
+
+I am constantly updating my skills and learning new technologies to keep up with market demands.</p><br>
+
 
 <div align="center" style="display: flex; justify-content: space-between; width:100%">
   <a href="https://github.com/Auggustto">
