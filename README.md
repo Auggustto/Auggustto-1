@@ -1,5 +1,5 @@
 
-### Olá bemvindo(a) ao meu perfil.🚀
+### Hello welcome to my profile.🚀
 <p>Hello, my name is Leonardo, and I am an experienced backend developer with skills in Python, PHP, JavaScript, Node.js, SQL, Docker, and Django.
 
 With over 2 years of experience, I have worked on challenging projects ranging from small applications to large enterprise systems. I always strive for the best solutions in terms of performance, security, and scalability.
