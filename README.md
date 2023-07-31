@@ -1,16 +1,16 @@
 
 ### Olá bemvindo(a) ao meu perfil.🚀
-<p>Meu nome é Leonardo Augusto e sou um desenvolvedor backend experiente, com habilidades em Python, PHP, Node.js, SQL, NoSQL, Docker e Django.
+<p>Hello, my name is Leonardo, and I am an experienced backend developer with skills in Python, PHP, JavaScript, Node.js, SQL, Docker, and Django.
 
-Com mais de 2 anos de experiência, trabalhei em projetos desafiadores que variam de pequenas aplicações a sistemas empresariais de grande porte. Sempre busco as melhores soluções em termos de desempenho, segurança e escalabilidade.
+With over 2 years of experience, I have worked on challenging projects ranging from small applications to large enterprise systems. I always strive for the best solutions in terms of performance, security, and scalability.
 
-Minha experiência inclui desenvolvimento de APIs, web scraping, integração de sistemas, automação de processos e implementação de bancos de dados. Tenho grande proficiência em Python, incluindo frameworks como Django e Flask. Além disso, possuo habilidades em JavaScript, tanto no backend com Node.js quanto no frontend com frameworks.
+My experience includes API development, web scraping, system integration, process automation, and database implementation. I am highly proficient in Python, including frameworks like Django and Flask. Additionally, I have skills in JavaScript, both on the backend with Node.js and on the frontend with frameworks.
 
-No campo dos bancos de dados, possuo conhecimento em bancos de dados relacionais como PostgreSQL e MySQL. Também estou familiarizado com ferramentas como Docker, que utilizo para criar e gerenciar contêineres.
+In the field of databases, I have knowledge of relational databases such as PostgreSQL and MySQL. I am also familiar with tools like Docker, which I use to create and manage containers.
 
-Sou um desenvolvedor altamente motivado, focado em entregar resultados e compreender as necessidades do negócio. Meu objetivo é criar soluções eficientes e escaláveis que atendam às demandas do projeto.
+I am a highly motivated developer, focused on delivering results and understanding the business needs. My goal is to create efficient and scalable solutions that meet the project's demands.
 
-Estou constantemente atualizando minhas habilidades e aprendendo novas tecnologias para acompanhar as demandas do mercado..</p><br>
+I am constantly updating my skills and learning new technologies to keep up with market demands.</p><br>
 
 
 <div align="center" style="display: flex; justify-content: space-between; width:100%">
