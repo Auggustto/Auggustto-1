@@ -1,37 +1,42 @@
 
-### Hello welcome to my profile.🚀
-<p>Hello, my name is Leonardo, and I am an experienced backend developer with skills in Python, PHP, JavaScript, Node.js, SQL, Docker, and Django.
 
-With over 2 years of experience, I have worked on challenging projects ranging from small applications to large enterprise systems. I always strive for the best solutions in terms of performance, security, and scalability.
+# Olá! Eu sou Leonardo Augusto de Andrade e seja bem vindo ao meu perfil 🚀
 
-My experience includes API development, web scraping, system integration, process automation, and database implementation. I am highly proficient in Python, including frameworks like Django and Flask. Additionally, I have skills in JavaScript, both on the backend with Node.js and on the frontend with frameworks.
+<p>Tenho 25 anos e atuo como desenvolvedor Back-End há cerca de 3 anos.
 
-In the field of databases, I have knowledge of relational databases such as PostgreSQL and MySQL. I am also familiar with tools like Docker, which I use to create and manage containers.
-
-I am a highly motivated developer, focused on delivering results and understanding the business needs. My goal is to create efficient and scalable solutions that meet the project's demands.
-
-I am constantly updating my skills and learning new technologies to keep up with market demands.</p><br>
+Dentro desse período, trabalhei em projetos desafiadores que vão desde pequenas aplicações até grandes sistemas. Tive a oportunidade de participar de 3 projetos importantes, nos quais pude aprimorar minhas Hard Skills e Soft Skills. Busco sempre as melhores soluções em termos de desempenho, segurança e escalabilidade. Abaixo, segue uma breve visão geral.</p>
 
 
-<div align="center" style="display: flex; justify-content: space-between; width:100%">
-  <a href="https://github.com/Auggustto">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Auggustto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auggustto&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Auggustto-Ts" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Auggustto-Ts" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Auggustto-Ts" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Auggustto-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="Auggustto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Auggustto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Auggustto-Ts" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Auggustto-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-</div>
-<div style="display: inline_block">
-  
-<a href="https://www.linkedin.com/in/leonardo-augusto-9316081b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-  
-<!-- ![snake gif](https://github.com/Auggustto/Auggustto/blob/output/github-contribution-grid-snake.svg) -->
+Principais projetos em que atuei/atuo:
+
+|Empresa| Projeto| Link|
+|-------|--------|-----|
+|CYF|CYF Quality AI|[Meet CYF Quality AI](https://cyf.com/pt/cyf-quality-ai-2/)
+|Alloy Mit|Banco Digital|[Blockchain Bank](https://www.bccb.com.br/)|
+|Magazine Luiza|Monitoramento de Rotas Automatico|Interno 🚫|
+<br>
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Auggustto&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Auggustto&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+### Conhecimentos:
+
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=PHP)&nbsp;
+![Node](https://img.shields.io/badge/Node-000?style=for-the-badge&logo=Node.js)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=Flutter&logoColor=264CE4)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+
+### Conecte-se comigo! 👇
+
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github)](https://github.com/Auggustto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/leonardo-augusto-9316081b7)
+[![Portifolio](https://img.shields.io/badge/Portifólio-000?style=for-the-badge&logo=&logoColor=ffff)](https://portifolio-ruby-theta-68.vercel.app/#home)
+
+##
