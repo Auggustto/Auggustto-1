@@ -16,9 +16,13 @@ Principais projetos em que atuei/atuo:
 |Magazine Luiza|Monitoramento de Rotas Automatico|Interno 🚫|
 <br>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Auggustto&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Auggustto&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs">
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Auggustto&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Auggustto&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats">
+</div>
 
 ### Conhecimentos:
 
@@ -40,3 +44,5 @@ Principais projetos em que atuei/atuo:
 [![Portifolio](https://img.shields.io/badge/Portifólio-000?style=for-the-badge&logo=&logoColor=ffff)](https://portifolio-ruby-theta-68.vercel.app/#home)
 
 ##
+
+
