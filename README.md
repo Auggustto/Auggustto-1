@@ -8,24 +8,28 @@ Dentro desse período, trabalhei em projetos desafiadores que vão desde pequena
 
 
 Principais projetos em que atuei/atuo:
+<center>
+
+---
 
 |Empresa| Projeto| Link|
 |-------|--------|-----|
 |CYF|CYF Quality AI|[Meet CYF Quality AI](https://cyf.com/pt/cyf-quality-ai-2/)
 |Alloy Mit|Banco Digital|[Blockchain Bank](https://www.bccb.com.br/)|
 |Magazine Luiza|Monitoramento de Rotas Automatico|Interno 🚫|
+
+</center>
+
+---
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Auggustto&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auggustto&theme=blue-green&title_color=E94D5F&border_color=30A3DC">
 </p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Auggustto&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats">
 </div>
-
-<!-- <img src=https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green> -->
-
 
 ### Conhecimentos:
 
@@ -42,7 +46,6 @@ Principais projetos em que atuei/atuo:
 
 ### Conecte-se comigo! 👇
 
-[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github)](https://github.com/Auggustto)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/leonardo-augusto-9316081b7)
 [![Portifolio](https://img.shields.io/badge/Portifólio-000?style=for-the-badge&logo=&logoColor=ffff)](https://portifolio-ruby-theta-68.vercel.app/#home)
 
