@@ -8,9 +8,10 @@ Dentro desse período, trabalhei em projetos desafiadores que vão desde pequena
 
 
 Principais projetos em que atuei/atuo:
-<center>
 
 ---
+
+<center>
 
 |Empresa| Projeto| Link|
 |-------|--------|-----|
