@@ -25,8 +25,10 @@ Principais projetos em que atuei/atuo:
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auggustto&theme=blue-green&title_color=E94D5F&border_color=30A3DC">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auggustto&theme=transparent&title_color=E94D5F">
 </p>
+<!--https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+https://github-readme-stats.vercel.app/api/top-langs/?username=Auggustto&theme=blue-green&title_color=E94D5F-->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Auggustto&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats">
