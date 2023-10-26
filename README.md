@@ -24,6 +24,14 @@ Principais projetos em que atuei/atuo:
 ---
 <br>
 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Auggustto&theme=monokai&hide_title=true&layout=default" />
+
+
+
+
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auggustto&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats">
 </p>
