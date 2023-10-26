@@ -1,6 +1,6 @@
+<img src="https://img.freepik.com/vetores-gratis/ilustracao-de-conceito-de-atividade-de-desenvolvedor_114360-2801.jpg?w=740&t=st=1698362257~exp=1698362857~hmac=95ea6e3b17cbb9c42d3bd7ebf4acab8d40b2784a28bc96d1fd12973575b04005" style="">
 
-
-# Olá! Eu sou Leonardo Augusto de Andrade e seja bem vindo ao meu perfil 🚀
+# Olá! Eu sou Leonardo Augusto e seja bem vindo ao meu perfil 🚀
 
 <p>Tenho 25 anos e atuo como desenvolvedor Back-End há cerca de 3 anos.
 
@@ -22,25 +22,34 @@ Principais projetos em que atuei/atuo:
 </center>
 
 ---
+
+### Conecte-se comigo! 👇
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/leonardo-augusto-9316081b7)
+[![Portifolio](https://img.shields.io/badge/Portifólio-000?style=for-the-badge&logo=&logoColor=ffff)](https://portifolio-ruby-theta-68.vercel.app/#home)
+[Perfil na DIO](https://www.dio.me/users/leonardoaugusto1000)
+##
+
 <br>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Auggustto&theme=monokai&hide_title=true&layout=default" />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Auggustto&theme=react&show_icons=true)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Auggustto&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<!--<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auggustto&theme&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats">
+</p>-->
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auggustto&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats">
-</p>
 <!--https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
 https://github-readme-stats.vercel.app/api/top-langs/?username=Auggustto&theme=blue-green&title_color=E94D5F-->
 
-<div align="center">
+<!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Auggustto&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats">
-</div>
+</div>-->
 
 ### Conhecimentos:
 
