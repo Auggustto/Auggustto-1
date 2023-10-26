@@ -54,4 +54,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=Auggustto&theme=b
 [Perfil na DIO](https://www.dio.me/users/leonardoaugusto1000)
 ##
 
+![](https://komarev.com/ghpvc/?username=Auggustto&label=PROFILE+VIEWS)
+![](https://hit.yhype.me/github/profile?user_id=93408782)
+
 
