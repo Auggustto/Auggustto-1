@@ -1,4 +1,4 @@
-<img src="./Developer activity-bro.png" style="">
+<img src="./Developer activity-bro.png" width="350px" height="350px" >
 
 # Olá! Eu sou Leonardo Augusto e seja bem vindo ao meu perfil 🚀
 
