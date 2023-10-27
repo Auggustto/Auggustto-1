@@ -1,10 +1,10 @@
-<img src="https://img.freepik.com/vetores-gratis/ilustracao-de-conceito-de-atividade-de-desenvolvedor_114360-2801.jpg?w=740&t=st=1698362257~exp=1698362857~hmac=95ea6e3b17cbb9c42d3bd7ebf4acab8d40b2784a28bc96d1fd12973575b04005" style="">
+<img src="./Developer activity-bro.png" style="">
 
 # Olá! Eu sou Leonardo Augusto e seja bem vindo ao meu perfil 🚀
 
-<p>Tenho 25 anos e atuo como desenvolvedor Back-End há cerca de 3 anos.
+Tenho 25 anos e atuo como desenvolvedor Back-End há cerca de 3 anos.
 
-Dentro desse período, trabalhei em projetos desafiadores que vão desde pequenas aplicações até grandes sistemas. Tive a oportunidade de participar de 3 projetos importantes, nos quais pude aprimorar minhas Hard Skills e Soft Skills. Busco sempre as melhores soluções em termos de desempenho, segurança e escalabilidade. Abaixo, segue uma breve visão geral.</p>
+Dentro desse período, trabalhei em projetos desafiadores que vão desde pequenas aplicações até grandes sistemas. Tive a oportunidade de participar de 3 projetos importantes, nos quais pude aprimorar minhas Hard Skills e Soft Skills. Busco sempre as melhores soluções em termos de desempenho, segurança e escalabilidade. Abaixo, segue uma breve visão geral.
 
 
 Principais projetos em que atuei/atuo:
@@ -32,12 +32,19 @@ Principais projetos em que atuei/atuo:
 
 <br>
 
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Auggustto&theme=react&hide_title=true&layout=default" />-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Auggustto&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Auggustto&theme=react&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Auggustto&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
 
 <!--<p align="center">
