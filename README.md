@@ -29,7 +29,7 @@ Principais projetos em que atuei/atuo:
 
 <!--START_SECTION:waka-->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Auggustto&theme=react&hide_title=true&layout=default" />
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Auggustto&theme=react&hide_title=true&layout=default" />-->
 
 <!--END_SECTION:waka-->
 
