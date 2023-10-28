@@ -27,7 +27,12 @@ Principais projetos em que atuei/atuo:
 
 <br>
 
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Auggustto&theme=react&hide_title=true&layout=default" />-->
+<!--START_SECTION:waka-->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Auggustto&theme=react&hide_title=true&layout=default" />
+
+<!--END_SECTION:waka-->
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Auggustto&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
