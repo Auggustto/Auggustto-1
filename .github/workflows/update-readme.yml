@@ -1,0 +1,26 @@
+name: Update WakaTime stats in README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Define a programação de atualização (diária)
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x  # Escolha a versão do Python que deseja usar
+
+    - name: Install dependencies
+      run: pip install requests
+
+    - name: Update README
+      env:
+        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      run: python update-readme.py
