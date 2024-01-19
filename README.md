@@ -6,22 +6,22 @@ Tenho 25 anos e atuo como desenvolvedor Back-End há cerca de 3 anos.
 
 Dentro desse período, trabalhei em projetos desafiadores que vão desde pequenas aplicações até grandes sistemas. Tive a oportunidade de participar de 3 projetos importantes, nos quais pude aprimorar minhas Hard Skills e Soft Skills. Busco sempre as melhores soluções em termos de desempenho, segurança e escalabilidade. Abaixo, segue uma breve visão geral.
 
-
-Principais projetos em que atuei/atuo:
-
 ---
-
-<center>
-
+Principais projetos em que atuei/atuo:
 |Empresa| Projeto| Link|
 |-------|--------|-----|
 |CYF|CYF Quality AI|[Meet CYF Quality AI](https://cyf.com/pt/cyf-quality-ai-2/)
 |Alloy Mit|Banco Digital|[Blockchain Bank](https://www.bccb.com.br/)|
 |Magazine Luiza|Monitoramento de Rotas Automatico|Interno 🚫|
-
-</center>
-
 ---
+
+<details>
+  <sumary></sumary>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Auggustto&theme=react&show_icons=true">
+    </p>
+</details>
+
 
 ##
 
@@ -29,31 +29,18 @@ Principais projetos em que atuei/atuo:
 
 <!--START_SECTION:waka-->
 
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Auggustto&theme=react&hide_title=true&layout=default" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Auggustto&theme=react&hide_title=true&layout=default" />
 
 
 
-![WakaTime stats](wakatime-stats.svg) -->
+![WakaTime stats](wakatime-stats.svg)
 
 <!--END_SECTION:waka-->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Auggustto&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Auggustto&theme=react&show_icons=true)
-
-
-
-
-
-
-
-
-<!--<p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auggustto&theme&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats">
-</p>-->
+</p>
 
 <!--https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
 https://github-readme-stats.vercel.app/api/top-langs/?username=Auggustto&theme=blue-green&title_color=E94D5F-->
@@ -65,7 +52,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=Auggustto&theme=b
 ### Conhecimentos:
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=PHP)&nbsp;
+<!--![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=PHP)&nbsp;-->
 ![Node](https://img.shields.io/badge/Node-000?style=for-the-badge&logo=Node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)&nbsp;
